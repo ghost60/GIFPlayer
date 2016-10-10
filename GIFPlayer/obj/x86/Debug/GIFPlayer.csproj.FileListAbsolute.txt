@@ -1,0 +1,9 @@
+G:\LSQ\GIFPlayer\GIFPlayer\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\LSQ\GIFPlayer\GIFPlayer\obj\x86\Debug\GIFPlayer.Form1.resources
+G:\LSQ\GIFPlayer\GIFPlayer\obj\x86\Debug\GIFPlayer.Properties.Resources.resources
+G:\LSQ\GIFPlayer\GIFPlayer\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\LSQ\GIFPlayer\GIFPlayer\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\LSQ\GIFPlayer\GIFPlayer\bin\Debug\GIFPlayer.exe
+G:\LSQ\GIFPlayer\GIFPlayer\bin\Debug\GIFPlayer.pdb
+G:\LSQ\GIFPlayer\GIFPlayer\obj\x86\Debug\GIFPlayer.exe
+G:\LSQ\GIFPlayer\GIFPlayer\obj\x86\Debug\GIFPlayer.pdb
